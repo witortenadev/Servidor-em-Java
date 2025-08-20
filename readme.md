@@ -22,6 +22,10 @@ Para compilar o projeto.
 
 Para rodar o código.
 
+Agora acesse http://localhost:8080/ 
+
+E utilize o projeto!
+
 ## Como utilizar
 
 ### Crie ✔️
